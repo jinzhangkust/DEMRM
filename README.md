@@ -1,2 +1,2 @@
 # DEMSM
-PyTorch implementation for Data-Efficient Soft Sensor Development for Flotation Performance Monitoring
+PyTorch implementation for Data-Efficient Regression Learning for KPI Prediction of Flotation Process Image
